@@ -1,0 +1,12 @@
+binary-component libbrowsercomps.so
+binary-component libffmpegsumo.so
+binary-component libflashplayer.so
+binary-component libmozalloc.so
+binary-component libmozjs.so
+binary-component libpdf.so
+binary-component libpeerconnection.so
+binary-component libpepflashplayer.so
+binary-component libppGoogleNaClPluginChrome.so
+binary-component libwidevinecdm.so
+binary-component libwidevinecdmadapter.so
+binary-component libxul.so
